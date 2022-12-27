@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/LomotHo/release-please-sample/compare/v1.2.1...v2.0.0) (2022-12-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is a broken change
+
+### Features
+
+* this is a broken change ([c727498](https://github.com/LomotHo/release-please-sample/commit/c727498c06f7ba405d846c84d5c1dd5a5862e62d))
+
 ## [1.2.1](https://github.com/LomotHo/release-please-sample/compare/v1.2.0...v1.2.1) (2022-12-27)
 
 
