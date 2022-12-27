@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/LomotHo/release-please-sample/compare/v1.1.0...v1.2.0) (2022-12-27)
+
+
+### Features
+
+* new feature ([#3](https://github.com/LomotHo/release-please-sample/issues/3)) ([c34b99d](https://github.com/LomotHo/release-please-sample/commit/c34b99dc8e70cce6373f11a2f37ecac82f832931))
+
 ## [1.1.0](https://github.com/LomotHo/release-please-sample/compare/v1.0.0...v1.1.0) (2022-12-27)
 
 
